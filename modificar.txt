@@ -1,0 +1,8 @@
+CREATE USER ANA
+IDENTIFIED BY "123"
+DEFAULT TABLESPACE V_ventas
+TEMPORARY TABLESPACE TEMP
+QUOTA UNLIMITED ON V_ventas;
+
+ "en este archivo modificaras el nombre y la contrasena"
+

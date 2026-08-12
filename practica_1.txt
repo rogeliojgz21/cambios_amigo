@@ -1,0 +1,5 @@
+Servidor 1: Apache Web - OK
+Servidor 2: Oracle DB - OK
+Servidor 3: Nginx Proxy - ERROR
+Servidor 4: PostgreSQL - OK
+Servidor 5: Redis Cache - ERROR

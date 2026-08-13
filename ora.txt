@@ -1,0 +1,13 @@
+-	Configurar ROL 
+• GRANT: Otorga permisos. 
+• CREATE TABLE: Permite crear tablas. 
+• CREATE VIEW: Permite crear vistas. 
+• TO rol_admin_datos: Asigna los permisos al rol. 
+
+-	Consultar Roles 
+• SELECT: Indica que se realizará una consulta para mostrar información. 
+• ROLE: Es la columna que contiene el nombre de cada rol. 
+• FROM: Especifica de dónde se obtendrán los datos. 
+• DBA_ROLES: Vista del diccionario de datos
+• WHERE: Aplica una condición para filtrar los resultados. 
+• ROLE = 'DBA_APP': Muestra únicamente el rol llamado DBA_APP.

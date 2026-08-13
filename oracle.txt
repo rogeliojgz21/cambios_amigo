@@ -1,0 +1,10 @@
+4.	comando de sistema operativo para checar el nombre del servidor?
+o	hostname: Muestra el nombre de red del servidor o equipo.
+	Usuario: linux/ORACLE 
+
+-	Configurar ROL 
+• GRANT: Otorga permisos. 
+• CREATE TABLE: Permite crear tablas. 
+• CREATE VIEW: Permite crear vistas. 
+• TO rol_admin_datos: Asigna los permisos al rol. 
+
